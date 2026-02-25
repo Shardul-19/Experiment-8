@@ -8,7 +8,7 @@ To study and implement the **for loop** in Python for performing repetitive task
 
 ---
 
-# THEORY (1–2 lines each)
+# THEORY 
 
 * **For Loop:** The `for` loop is used to iterate over a sequence like range, list, or string and execute statements repeatedly.
 * **range():** Generates a sequence of numbers with optional start, stop, and step values.
@@ -19,7 +19,7 @@ To study and implement the **for loop** in Python for performing repetitive task
 
 ---
 
-#  ALGORITHMS (Detailed)
+#  ALGORITHMS 
 
 ---
 
