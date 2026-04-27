@@ -125,7 +125,7 @@ To study and implement the **for loop** in Python for performing repetitive task
 
 ---
 
-# CONCLUSION (3–4 lines)
+# CONCLUSION
 
 In this experiment, we studied the working of the **for loop** in Python. We implemented various programs such as number printing, summation, matrix operations, permutations, and pattern generation. Nested loops were particularly useful in handling matrices and patterns. Thus, the for loop is a powerful control structure for handling fixed-iteration tasks efficiently.
 
